@@ -12,3 +12,4 @@ C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\CsharpCourseNelio\CsharpCour
 C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\CsharpCourseNelio\CsharpCourseNelio\obj\Debug\net8.0\CsharpCourseNelio_01.pdb
 C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\CsharpCourseNelio\CsharpCourseNelio\obj\Debug\net8.0\CsharpCourseNelio_01.genruntimeconfig.cache
 C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\CsharpCourseNelio\CsharpCourseNelio\obj\Debug\net8.0\ref\CsharpCourseNelio_01.dll
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\CsharpCourseNelio\CsharpCourseNelio\obj\Debug\net8.0\CsharpCourseNelio_01.sourcelink.json

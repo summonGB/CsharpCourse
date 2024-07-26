@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\SummonTerras\\Documents\\GitHub\\CsharpCourse\\CsharpCourseNelio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{812BF5EB-7028-438B-AE64-ABFFA2FB13F8}|CsharpCourseNelio\\CsharpCourseNelio.csproj|c:\\users\\summonterras\\documents\\github\\csharpcourse\\csharpcoursenelio\\csharpcoursenelio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812BF5EB-7028-438B-AE64-ABFFA2FB13F8}|CsharpCourseNelio\\CsharpCourseNelio.csproj|solutionrelative:csharpcoursenelio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{812BF5EB-7028-438B-AE64-ABFFA2FB13F8}|CsharpCourseNelio\\CsharpCourseNelio_01.csproj|c:\\users\\summonterras\\documents\\github\\csharpcourse\\csharpcoursenelio\\csharpcoursenelio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812BF5EB-7028-438B-AE64-ABFFA2FB13F8}|CsharpCourseNelio\\CsharpCourseNelio_01.csproj|solutionrelative:csharpcoursenelio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "CsharpCourseNelio\\Program.cs",
               "ToolTip": "C:\\Users\\SummonTerras\\Documents\\GitHub\\CsharpCourse\\CsharpCourseNelio\\CsharpCourseNelio\\Program.cs",
               "RelativeToolTip": "CsharpCourseNelio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T11:07:06.892Z",
               "EditorCaption": ""

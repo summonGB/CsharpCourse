@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpCourseNelio_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef982026b5430d213d55d89804174d403de21247")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpCourseNelio_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpCourseNelio_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
