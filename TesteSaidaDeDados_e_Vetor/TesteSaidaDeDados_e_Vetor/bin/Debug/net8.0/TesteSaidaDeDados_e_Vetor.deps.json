@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteSaidaDeDados_e_Vetor/1.0.0": {
+        "runtime": {
+          "TesteSaidaDeDados_e_Vetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteSaidaDeDados_e_Vetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

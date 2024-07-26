@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\bin\Debug\net8.0\TesteSaidaDeDados_e_Vetor.exe
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\bin\Debug\net8.0\TesteSaidaDeDados_e_Vetor.deps.json
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\bin\Debug\net8.0\TesteSaidaDeDados_e_Vetor.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\bin\Debug\net8.0\TesteSaidaDeDados_e_Vetor.dll
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\bin\Debug\net8.0\TesteSaidaDeDados_e_Vetor.pdb
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\TesteSaidaDeDados_e_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\TesteSaidaDeDados_e_Vetor.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\TesteSaidaDeDados_e_Vetor.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\TesteSaidaDeDados_e_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\TesteSaidaDeDados_e_Vetor.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\TesteSaidaDeDados_e_Vetor.dll
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\refint\TesteSaidaDeDados_e_Vetor.dll
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\TesteSaidaDeDados_e_Vetor.pdb
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\TesteSaidaDeDados_e_Vetor.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\TesteSaidaDeDados_e_Vetor\TesteSaidaDeDados_e_Vetor\obj\Debug\net8.0\ref\TesteSaidaDeDados_e_Vetor.dll
