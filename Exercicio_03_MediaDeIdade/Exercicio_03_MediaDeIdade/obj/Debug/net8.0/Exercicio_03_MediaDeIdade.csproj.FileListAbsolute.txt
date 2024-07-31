@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\bin\Debug\net8.0\Exercicio_03_MediaDeIdade.exe
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\bin\Debug\net8.0\Exercicio_03_MediaDeIdade.deps.json
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\bin\Debug\net8.0\Exercicio_03_MediaDeIdade.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\bin\Debug\net8.0\Exercicio_03_MediaDeIdade.dll
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\bin\Debug\net8.0\Exercicio_03_MediaDeIdade.pdb
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\Exercicio_03_MediaDeIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\Exercicio_03_MediaDeIdade.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\Exercicio_03_MediaDeIdade.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\Exercicio_03_MediaDeIdade.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\Exercicio_03_MediaDeIdade.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\Exercicio_03_MediaDeIdade.dll
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\refint\Exercicio_03_MediaDeIdade.dll
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\Exercicio_03_MediaDeIdade.pdb
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\Exercicio_03_MediaDeIdade.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\CsharpCourse\Exercicio_03_MediaDeIdade\Exercicio_03_MediaDeIdade\obj\Debug\net8.0\ref\Exercicio_03_MediaDeIdade.dll

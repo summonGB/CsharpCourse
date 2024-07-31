@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_01_CalculoAreaTerreno")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_03_MediaDeIdade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51333d2e6764d80c6286ec5d75deb0dd44e2afc3")]
-[assembly: System.Reflection.AssemblyProductAttribute("Exercicio_01_CalculoAreaTerreno")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_01_CalculoAreaTerreno")]
+[assembly: System.Reflection.AssemblyProductAttribute("Exercicio_03_MediaDeIdade")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_03_MediaDeIdade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
