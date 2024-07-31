@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_02_AreaPerimetroDiagonal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51333d2e6764d80c6286ec5d75deb0dd44e2afc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01be2d48430e52aebc55d4f65c1a230111b26d15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio_02_AreaPerimetroDiagonal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_02_AreaPerimetroDiagonal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
